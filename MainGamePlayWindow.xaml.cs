@@ -1557,6 +1557,7 @@ namespace OOD_project_2026
             if (jc == null)
                 return;
 
+
             //animating the joker cards with affects. 
             AnimateCard(JokerCard, 0);
         }
